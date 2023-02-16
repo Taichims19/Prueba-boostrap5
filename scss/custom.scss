@@ -1,0 +1,16 @@
+/*patron colores*/
+$principal: #df2c6d;
+$secondary: #702cdd;
+
+/*Modificando variables de bootstrap*/
+$primary: $principal;
+$enable-shadows:true;
+$enable-gradients:true;
+$btn-padding-y:  .8rem;
+$btn-padding-x:  2.0rem;
+$btn-border-radius:20px;
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.btn-primary {
+    border-bottom: 3px solid rgba(0,0,0,.27);
+}

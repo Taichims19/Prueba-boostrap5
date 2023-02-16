@@ -1,0 +1,1 @@
+Repositorio de practica para aprender a usar correctamente bootstrap 5 y cambiar variables, iconos, entre otros.
